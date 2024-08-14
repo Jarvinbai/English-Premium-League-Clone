@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "playerName": "Lalthuammawia",
+    "lastName": "Ralte",
+    "position": "Goalkeeper",
+    "matchesPlayed": 0,
+    "saves": 0,
+    "cleanSheets": 0,
+    "imageUrl": "../../assets/player1.jpg",
+    "clubName": "BENGALURU FC"
+  },
+  {
+    "id": 2,
+    "playerName": "Anirudh",
+    "lastName": "Thapa",
+    "position": "Midfielder",
+    "matchesPlayed": 10,
+    "saves": 5,
+    "cleanSheets": 3,
+    "imageUrl": "../../assets/userlog.webp",
+    "clubName": "CHENNAIYIN FC"
+  },
+  {
+    "id": 3,
+    "playerName": "Sahal",
+    "lastName": "Abdul Samad",
+    "position": "Midfielder",
+    "matchesPlayed": 15,
+    "saves": 2,
+    "cleanSheets": 5,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "KERALA FC"
+  },
+  {
+    "id": 4,
+    "playerName": "Sunil",
+    "lastName": "Chhetri",
+    "position": "Forward",
+    "matchesPlayed": 20,
+    "saves": 0,
+    "cleanSheets": 7,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "BENGALURU FC"
+  },
+  {
+    "id": 5,
+    "playerName": "Brandon",
+    "lastName": "Fernandes",
+    "position": "Midfielder",
+    "matchesPlayed": 8,
+    "saves": 10,
+    "cleanSheets": 4,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "FC GOA"
+  },
+  {
+    "id": 6,
+    "playerName": "Asish",
+    "lastName": "Rai",
+    "position": "Defender",
+    "matchesPlayed": 12,
+    "saves": 3,
+    "cleanSheets": 6,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "HYDERABAD FC"
+  },
+  {
+    "id": 7,
+    "playerName": "Bipin",
+    "lastName": "Singh",
+    "position": "Forward",
+    "matchesPlayed": 18,
+    "saves": 1,
+    "cleanSheets": 2,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "MUMBAI CITY FC"
+  },
+  {
+    "id": 8,
+    "playerName": "Manvir",
+    "lastName": "Singh",
+    "position": "Forward",
+    "matchesPlayed": 25,
+    "saves": 0,
+    "cleanSheets": 8,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "ATK MOHUN BAGAN"
+  },
+  {
+    "id": 9,
+    "playerName": "Pawan",
+    "lastName": "Kumar",
+    "position": "Goalkeeper",
+    "matchesPlayed": 5,
+    "saves": 7,
+    "cleanSheets": 3,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "JAMSHEDPUR FC"
+  },
+  {
+    "id": 10,
+    "playerName": "Federico",
+    "lastName": "Gallego",
+    "position": "Midfielder",
+    "matchesPlayed": 14,
+    "saves": 2,
+    "cleanSheets": 5,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "NORTH EAST UNITED FC"
+  },
+  {
+    "id": 11,
+    "playerName": "Udanta",
+    "lastName": "Singh",
+    "position": "Forward",
+    "matchesPlayed": 22,
+    "saves": 0,
+    "cleanSheets": 7,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "BENGALURU FC"
+  },
+  {
+    "id": 12,
+    "playerName": "Seriton",
+    "lastName": "Fernandes",
+    "position": "Defender",
+    "matchesPlayed": 19,
+    "saves": 0,
+    "cleanSheets": 6,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "FC GOA"
+  },
+  {
+    "id": 13,
+    "playerName": "Nishu",
+    "lastName": "Kumar",
+    "position": "Defender",
+    "matchesPlayed": 7,
+    "saves": 6,
+    "cleanSheets": 2,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "KERALA FC"
+  },
+  {
+    "id": 14,
+    "playerName": "Liston",
+    "lastName": "Colaco",
+    "position": "Forward",
+    "matchesPlayed": 13,
+    "saves": 3,
+    "cleanSheets": 5,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "HYDERABAD FC"
+  },
+  {
+    "id": 15,
+    "playerName": "Vignesh",
+    "lastName": "Dakshinamurthy",
+    "position": "Defender",
+    "matchesPlayed": 17,
+    "saves": 1,
+    "cleanSheets": 4,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "MUMBAI CITY FC"
+  },
+  {
+    "id": 16,
+    "playerName": "Sandesh",
+    "lastName": "Jhingan",
+    "position": "Defender",
+    "matchesPlayed": 24,
+    "saves": 0,
+    "cleanSheets": 7,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "ATK MOHUN BAGAN"
+  },
+  {
+    "id": 17,
+    "playerName": "Nerijus",
+    "lastName": "Valskis",
+    "position": "Forward",
+    "matchesPlayed": 6,
+    "saves": 5,
+    "cleanSheets": 2,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "JAMSHEDPUR FC"
+  },
+  {
+    "id": 18,
+    "playerName": "Khassa",
+    "lastName": "Camara",
+    "position": "Midfielder",
+    "matchesPlayed": 15,
+    "saves": 2,
+    "cleanSheets": 6,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "NORTH EAST UNITED FC"
+  },
+  {
+    "id": 19,
+    "playerName": "Harmanpreet",
+    "lastName": "Singh",
+    "position": "Forward",
+    "matchesPlayed": 21,
+    "saves": 0,
+    "cleanSheets": 5,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "BENGALURU FC"
+  },
+  {
+    "id": 20,
+    "playerName": "Ishan",
+    "lastName": "Pandita",
+    "position": "Forward",
+    "matchesPlayed": 23,
+    "saves": 0,
+    "cleanSheets": 8,
+    "imageUrl": "../../assets/19126.webp",
+    "clubName": "FC GOA"
+  }
+]

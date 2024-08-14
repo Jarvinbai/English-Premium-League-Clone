@@ -1,0 +1,40 @@
+<button class="relative group overflow-clip
+{{
+    this.animation === 'F'&&this.shade === 'D'?
+    'hover:bg-violet-50':
+    this.animation === 'F'&&this.shade === 'L'?
+    'hover:bg-violet-600':
+    this.animation === 'F'&&this.shade === 'W'?
+    'hover:bg-violet-600':
+    ''
+}}
+ {{
+    this.shade ==='D' && this.size!='L'?
+    'border bg-violet-600 text-violet-50 border-violet-600 hover:text-slate-700':
+    this.shade ==='D' && this.size==='L'?
+    'border bg-violet-600 text-violet-50 border-violet-600':
+    this.shade ==='L'?
+    'border bg-violet-50 text-violet-600 border-violet-600 hover:text-violet-50':
+    this.shade ==='W'?
+    'border bg-white text-slate-700 border-violet-600 hover:text-violet-50':
+    'text-white hover:text-slate-700'
+ }}
+ {{
+ this.size ==='S'?
+ 'px-5 py-2 rounded-lg font-medium text-md':
+ this.size ==='M'?
+ 'px-7 py-3 rounded-lg font-medium text-lg':
+ 'px-4 xl:px-8 py-4 rounded-lg font-semibold text-lg'
+ }}"> 
+    <span class="z-30 relative">
+        {{this.name}}
+    </span>
+    <span *ngIf="this.shade!='NA' && this.animation === 'C'" class="absolute top-[50%] left-[50%] transition-all duration-1000
+     aspect-square w-[20%] group-hover:w-[200%] rounded-full
+    -translate-x-[50%] -translate-y-[50%] z-20 opacity-0 group-hover:opacity-100
+    {{
+        this.shade === 'D'?
+        (this.size==='L'?'bg-slate-800':'bg-violet-50'):'bg-violet-600'
+    }}">
+    </span>
+</button>
